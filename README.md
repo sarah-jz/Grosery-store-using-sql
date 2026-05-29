@@ -31,4 +31,4 @@ Select items to purchase
 System checks stock availability
 Generates final receipt with total cost
 
-Make sure to change the "Password" in line 4 to the password of sql in your PC/Laptop
+Make sure to change the "Password" in line 7 to the password of sql in your PC/Laptop
