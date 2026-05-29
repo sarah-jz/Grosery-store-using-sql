@@ -1,3 +1,5 @@
+A Python + MySQL based application that simulates a real-world grocery store system with admin and customer functionality.
+
 *Features*
 Admin login system
 Add new products to stock
